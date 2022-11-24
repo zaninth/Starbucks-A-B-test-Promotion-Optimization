@@ -5,8 +5,7 @@ This dataset is part of The [Udacity](https://eu.udacity.com/) Data Scientist Na
 The aim of the project was divided into 3 sections:
 
 * **Checking A/B test**: Checking the A/B test, analyze the invariant metric and evaluation metric.
-* **Exploratory Analysis**: try to identify the features correlations and relationa with the metrics.from the database and processes text and performs a multi-output 
-classification. The script uses NLTK, scikit-learn's Pipeline and GridSearchCV.
+* **Exploratory Analysis**: try to identify the features correlations and relationa with the metrics.
 * **Build Model** Training a model that takes in consideration the features and find the best model to improve the Incremental Response Rate (IRR) and the Net Incremental Revenue (NIR).
 
 ## 📁 **File Description**
