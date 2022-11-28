@@ -2,6 +2,9 @@
 
 ## 🚀**Introduction**
 This dataset is part of The [Udacity](https://eu.udacity.com/) Data Scientist Nanodegree Program. The goal of this project is to apply the data science and statistical skills learned in the course to analyze and complete the [Starbucks](https://www.starbucks.com/) Take-Home assignament provided for their data scientist candidate jobs. 
+
+*Read the article on [Medium](https://medium.com/@thaleszanin/a-data-scientists-look-at-an-a-b-test-167679ac631d)
+
 The aim of the project was divided into 3 sections:
 
 * **Checking A/B test**: Checking the A/B test, analyze the invariant metric and evaluation metric.
